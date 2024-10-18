@@ -1,0 +1,282 @@
+@media (max-width:1360px) {
+
+    body {
+        padding-bottom: 1020px;
+    }
+    .web {
+       margin-left: 20px;
+    
+    }
+    .table-1 {
+        position: absolute;
+        top: 160px;
+        margin-left: -1000px;
+    }
+    .table-2 {
+        position: absolute;
+        top: 160px;
+        margin-left: -500px;
+    }
+    
+    .table-3 {
+        position: absolute;
+        top: 160px;
+        margin-left: 100px;
+    
+    }
+    
+    .table-4 {
+        position: absolute;
+        top: 160px;
+        margin-left: 500px;
+    }
+    
+    .table-5 {
+        position: absolute;
+        top: 160px;
+       margin-left: 900px;
+    
+    }
+    
+    .table-6 {
+        position: absolute;
+        top: 320px;
+        margin-left: -1050px;
+    }
+    
+    .table-7 {
+        position: absolute;
+        top: 320px;
+        margin-left: -420px;
+    }
+    .search-bar {
+        width:320px ;
+    }
+
+    .copyright {
+        top: 530px;
+    }
+}
+
+@media (max-width:1200px) {
+    body {
+        padding-bottom: 1050px;
+    }
+    .first-colom {
+        left: 95px;
+    }
+    .list-of-description {
+        left: 130px;
+        padding-right: 0;
+    }
+    .web {
+        margin-left: 50px;
+        padding-right: 0;
+     }
+     .search-bar {
+        margin-left: -500px;
+        width:320px ;
+        padding-right: 0;
+    }
+    table {
+        padding-right: 0;
+    }
+     .table-1 {
+         position: absolute;
+         top: 160px;
+         margin-left: -980px;
+     }
+     .table-2 {
+         position: absolute;
+         top: 160px;
+         margin-left: -550px;
+     }
+     
+     .table-3 {
+         position: absolute;
+         top: 160px;
+         margin-left: -15px;
+     
+     }
+     
+     .table-4 {
+         position: absolute;
+         top: 160px;
+         margin-left: 395px;
+     }
+     
+     .table-5 {
+         position: absolute;
+         top: 320px;
+        margin-left: -1035px;
+     
+     }
+     
+     .table-6 {
+         position: absolute;
+         top: 320px;
+         margin-left: -530px;
+     }
+     
+     .table-7 {
+         position: absolute;
+         top: 370px;
+         margin-left: 15px;
+     }
+   
+ 
+     .copyright {
+         top: 560px;
+         
+     }
+
+     .copyright p {
+       font-size: 14px;
+       margin-left: -350px;
+       width: 700px;
+       padding-right: 0;
+       padding: 0;
+        
+    }
+    .footer {
+        padding-right: 0;
+    }
+}
+@media (max-width: 926px) {
+    body {
+        padding-bottom: 2200px;
+    }
+
+    .body-footer {
+        margin-top: 1290px;
+        height:1700px ;
+    }
+
+    .list-of-description {
+        left: 100px;
+        padding-right: 0;
+        gap: 10px;
+    }
+   
+    .web {
+        margin-left: -350px;
+        margin-right: 80px;
+        padding-right: 0;
+     }
+     .search-container {
+        position: absolute;
+        top: 130px;
+        margin-left:-178px;
+        padding-right: 0;
+    }
+
+    .search-bar {
+        width: 320px;
+    }
+  
+     .table-1 {
+         position: absolute;
+         top: 190px;
+         margin-left: -790px;
+     }
+     .table-2 {
+         position: absolute;
+         top: 360px;
+         margin-left: -865px;
+         
+     }
+     
+     .table-3 {
+         position: absolute;
+         top: 530px;
+         margin-left: -820px;
+        
+     
+     }
+     
+     .table-4 {
+         position: absolute;
+         top: 750px;
+         margin-left: -880px;
+       
+     }
+     
+     .table-5 {
+         position: absolute;
+         top: 860px;
+        margin-left: -860px;
+       
+     
+     }
+     
+     .table-6 {
+         position: absolute;
+         top: 1000px;
+         margin-left: -865px;
+         
+     }
+     
+     .table-7 {
+         position: absolute;
+         top: 1160px;
+         margin-left: -800px;
+        
+     }
+   
+ 
+     .copyright {
+         top: 1380px;
+         
+         
+     }
+
+     .copyright p {
+       font-size: 14px;
+       margin-left: -440px;
+       padding-right: 0;
+       width: 500px;
+       padding: 0;
+        
+    }
+    .footer {
+        padding-right: 0;
+    }
+    .footer img {
+        position: absolute;
+        top: 3px;
+        left: 3px;
+    }
+
+    .song-title {
+        position: absolute;
+        top: -5px;
+        left: 60px;
+        font-size: 9px;
+    }
+
+    .song-duration {
+        position: absolute;
+        top: 40px;
+        left: 10px;
+    }
+
+}
+
+@media (max-width: 626px) {
+
+    body {
+        padding-bottom: 2100px;
+    }
+
+    .body-footer {
+        margin-top: 1300px;
+    }
+    .copyright p {
+        font-size: 14px;
+        margin-left: -480px;
+        padding-right: 0;
+        width: 300px;
+        padding: 0;
+         
+     }
+}
